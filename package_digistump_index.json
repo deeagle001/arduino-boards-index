@@ -118,13 +118,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -158,13 +158,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -198,13 +198,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -238,13 +238,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -278,13 +278,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -318,13 +318,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -358,13 +358,13 @@
               "version": "0.9.1"
             },
             {
-              "packager": "digistump", 
-              "version": "1.20.0-26-gb404fb9-2", 
+              "packager": "digistump",
+              "version": "1.20.0-26-gb404fb9-2",
               "name": "xtensa-lx106-elf-gcc"
-            }, 
+            },
             {
-              "packager": "digistump", 
-              "version": "0.1.2", 
+              "packager": "digistump",
+              "version": "0.1.2",
               "name": "mkspiffs"
             }
           ]
@@ -403,6 +403,13 @@
                  "url": "https://github.com/digistump/DigistumpArduino/releases/download/1.6.5a/micronucleus-2.0a4-linux64.tar.gz",
                  "checksum": "SHA-256:1F545C0BB60E85A604901C2D7044772AC91776594C209C571DFEDAD4A70195B8",
                  "size": "22874"
+               },
+               {
+                 "host": "arm-linux-gnueabihf",
+                 "archiveFileName": "micronucleus-2.0a4-linuxarm.tar.gz",
+                 "url": "https://raw.githubusercontent.com/deeagle001/DigistumpArduino/master/tools/micronucleus-2.0a4-linuxarm.tar.gz",
+                 "checksum": "SHA-256:4C6002AFE9DF13A1E229408D1C90A3F34BA270C4383BEB22DE4234DB0D207D38",
+                 "size": "25607"
                }
 
              ]
